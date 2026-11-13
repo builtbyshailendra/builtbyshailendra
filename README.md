@@ -6,11 +6,14 @@ I'm working toward forward deployed engineering: understand a team's workflow, b
 ### What I'm building now
 
 Small personal learning projects on synthetic data, one step at a time.
-Each repo keeps a short daily note: what I built, what broke, what I learned.
+Each repo keeps a short build log: what I built, what broke, what I learned.
 
 | Project | What it does | Status |
 |---|---|---|
-| [doc-intake-pipeline](https://github.com/builtbyshailendra/doc-intake-pipeline) | Turns emailed PDF invoices into clean rows in a SQL table and a short report | In progress |
+| 📄 [doc-intake-pipeline](https://github.com/builtbyshailendra/doc-intake-pipeline) | Emailed PDF invoices in, clean SQL rows and a one-page report out. Flags duplicates, impossible dates and totals that don't add up | ✅ Working |
+| 🧪 iac-check-kit | Small Python checks that grade Terraform for common mistakes | 🔜 Next |
+| 🛠️ serviceops-workbench | A service request from intake to a human-approved action, with an audit trail | 🗓️ Planned |
+| 🚀 deploy-baseline | Docker, CI, Terraform and Kubernetes with health checks and rollback | 🗓️ Planned |
 
 ### Stack I work with
 
