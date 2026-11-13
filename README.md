@@ -12,8 +12,8 @@ Each repo keeps a short build log: what I built, what broke, what I learned.
 |---|---|---|
 | 📄 [doc-intake-pipeline](https://github.com/builtbyshailendra/doc-intake-pipeline) | Emailed PDF invoices in, clean SQL rows and a one-page report out. Flags duplicates, impossible dates and totals that don't add up | ✅ Working |
 | 🧪 [iac-check-kit](https://github.com/builtbyshailendra/iac-check-kit) | Reads Terraform and flags S3 buckets that can go public and SSH open to the internet. Passes a safe setup however it's written, and says "can't tell" instead of guessing | ✅ Working |
-| 🛠️ serviceops-workbench | A service request from intake to a human-approved action, with an audit trail | 🔜 Next |
-| 🚀 deploy-baseline | Docker, CI, Terraform and Kubernetes with health checks and rollback | 🗓️ Planned |
+| 🛠️ [serviceops-workbench](https://github.com/builtbyshailendra/serviceops-workbench) | Next.js + FastAPI + PostgreSQL. A service request goes from intake to a human-approved action, with an audit trail the database won't let anyone edit | ✅ Working |
+| 🚀 deploy-baseline | Docker, CI, Terraform and Kubernetes with health checks and rollback | 🔜 Next |
 
 ### Stack I work with
 
