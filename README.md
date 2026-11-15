@@ -10,6 +10,7 @@ Each repo keeps a short build log: what I built, what broke, what I learned.
 
 | Project | What it does | Status |
 |---|---|---|
+| 🏥 [prior-auth-workbench](https://github.com/builtbyshailendra/prior-auth-workbench) | Prior-authorization intake for a fictional health plan. FHIR, X12 278, fax and CRM requests become one queue; AI pulls checklist facts from clinical notes and every quote is checked against the source; nurses and medical directors decide on CMS's 72-hour / 7-day clocks. Discovery pack, business case and Kubernetes drills included | ✅ Working |
 | 📄 [doc-intake-pipeline](https://github.com/builtbyshailendra/doc-intake-pipeline) | Emailed PDF invoices in, clean SQL rows and a one-page report out. Flags duplicates, impossible dates and totals that don't add up | ✅ Working |
 | 🧪 [iac-check-kit](https://github.com/builtbyshailendra/iac-check-kit) | Reads Terraform and flags S3 buckets that can go public and SSH open to the internet. Passes a safe setup however it's written, and says "can't tell" instead of guessing | ✅ Working |
 | 🛠️ [serviceops-workbench](https://github.com/builtbyshailendra/serviceops-workbench) | Next.js + FastAPI + PostgreSQL. A service request goes from intake to a human-approved action, with an audit trail the database won't let anyone edit | ✅ Working |
@@ -17,7 +18,7 @@ Each repo keeps a short build log: what I built, what broke, what I learned.
 
 ### Stack I work with
 
-Python, TypeScript, React / Next.js, PostgreSQL, Docker, AWS, Kubernetes, Terraform, GitHub Actions.
+Python, TypeScript, React / Next.js, PostgreSQL, Docker, AWS, Kubernetes, Terraform, GitHub Actions. Healthcare data: HL7 FHIR R4, X12 278.
 
 ### Certifications earned
 
