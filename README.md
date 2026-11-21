@@ -3,6 +3,8 @@
 I build Python automation, full-stack features and the cloud setup that runs them.
 I'm working toward forward deployed engineering: understand a team's workflow, build the fix, and make the result easy to check.
 
+**New here? Start with** [field-copilot](https://github.com/builtbyshailendra/field-copilot) (AI platform), [deploy-baseline](https://github.com/builtbyshailendra/deploy-baseline) (SRE and Kubernetes) or [raft-kv](https://github.com/builtbyshailendra/raft-kv) (distributed systems).
+
 ### What I'm building now
 
 Small personal learning projects on synthetic data, one step at a time.
