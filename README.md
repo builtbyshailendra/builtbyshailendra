@@ -25,6 +25,9 @@ Built in November 2026, pairing with Claude Code, to learn each technology from 
 
 | Project | What it does |
 |---|---|
+| 🧳 [fde-data-migration-kit](https://github.com/builtbyshailendra/fde-data-migration-kit) | Onboards a customer's legacy CSV and Excel data: profile, map in one YAML file, validate, fuzzy-deduplicate, dry-run diff, then load idempotently into SQLite or PostgreSQL and reconcile |
+| 🌊 [driftwatch](https://github.com/builtbyshailendra/driftwatch) | Terraform drift detection from plan JSON in Go, with Markdown and JSON reports, GitHub issue and Slack outputs, and a GitHub Action |
+| 💸 [aws-cost-sentinel](https://github.com/builtbyshailendra/aws-cost-sentinel) | Finds AWS cost waste (idle, oversized and orphaned resources) with dollar estimates, from a Cost Explorer CSV or a read-only scan tested against moto |
 | 🔩 [cad-to-fea](https://github.com/builtbyshailendra/cad-to-fea) | A bracket from CAD to stress: modelled in CadQuery and build123d, meshed with Gmsh, solved in CalculiX and FEniCSx, and checked against beam theory |
 | ⚙️ [motor-control-three-ways](https://github.com/builtbyshailendra/motor-control-three-ways) | One motor speed controller designed in python-control, built as an op-amp circuit in ngspice (PySpice) and as a physical model in OpenModelica. All three agree within 0.002%, and a supply limit shows integrator windup and its fix |
 | 🔥 [flame-to-flow](https://github.com/builtbyshailendra/flame-to-flow) | Methane flames in Cantera (flame temperature, flame speed, ignition delay), then the hot exhaust through a duct in OpenFOAM on blockMesh and Gmsh meshes, checked against published data and channel-flow theory |
