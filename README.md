@@ -145,7 +145,7 @@ Apache Iceberg tables with a PostgreSQL catalog, read by DuckDB, tested by killi
 
 Every repo keeps a build log: what I built, what broke, and what I measured and how.
 Data is synthetic and customers are fictional.
-I build with AI coding agents (Claude Code) and hold the result to the bar of a teammate's pull request: tests, CI on every push, and numbers I can reproduce.
+Every project is held to the bar of a teammate's pull request: tests, CI on every push, and numbers I can reproduce.
 
 ## Stack
 
